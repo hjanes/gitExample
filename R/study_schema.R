@@ -7,7 +7,7 @@
 #'
 #' @return a kable table with the study schema
 #' @export
-#'
+#'  This is a comment
 #' @examples
 study_schema <- function(caption = "gitExample study schema.") {
 
